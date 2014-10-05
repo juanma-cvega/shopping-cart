@@ -1,0 +1,1 @@
+Different bounded context for customer as a buyer and customer as a registered client.
