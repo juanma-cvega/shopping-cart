@@ -1,6 +1,6 @@
 shopping-cart
 =============
-
+ 
 Specifications:
    - A customer can have only many carts at a time.
    - A customer can add, remove and look for products in his carts.
